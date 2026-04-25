@@ -36,5 +36,9 @@
       "markdownlint-cli2",
       "textlint"
     ]
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1037.0",
+    "@aws-sdk/client-rds-data": "^3.1037.0"
   }
 }
